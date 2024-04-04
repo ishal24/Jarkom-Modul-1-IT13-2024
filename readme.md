@@ -15,7 +15,7 @@
 ![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/ftp_1.png)
 
 - Filter ftp
-![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/ftp_2png)
+![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/ftp_2.png)
 
 - Cari password yang berhasil digunakan untuk login
 ![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/ftp_3.png)
