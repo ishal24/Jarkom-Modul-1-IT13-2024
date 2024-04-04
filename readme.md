@@ -14,7 +14,7 @@
 - Buka file ftp.pcap
 ![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/ftp_1.png)
 
-- Filter ftp
+- Filter FTP
 ![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/ftp_2.png)
 
 - Cari password yang berhasil digunakan untuk login
@@ -25,5 +25,25 @@
 
 
 ## 2. creds
+### Pertanyaan : 
+![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/creds_0.png)
 
+### Langkah kerja:
 
+- Buka file evidence.pcap
+![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/creds_1.png)
+
+- Filter FTP
+![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/creds_2.png)
+
+- Dapatkan user yang digunakan oleh attacker
+![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/creds_3.png)
+
+- Pertanyaan lanjutan
+![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/creds_4.png)
+
+- Cari password yang berhasil digunakan untuk login
+![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/creds_5.png)
+
+- Dapatkan flag
+![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/creds_6.png)
