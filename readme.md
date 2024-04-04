@@ -47,3 +47,27 @@
 
 - Dapatkan flag
 ![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/creds_6.png)
+
+## 3. secret
+### Pertanyaan : 
+![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/secret_0.png)
+
+### Langkah kerja:
+
+- Buka file evidence.pcap
+![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/creds_1.png)
+
+- Filter FTP
+![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/creds_2.png)
+
+- Export file yang tercapture
+![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/secret_1.png)
+
+- Save file selain malware
+![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/secret_2.png)
+
+- Buka file jpg tersebut, dapatkan pesan yang dikutip
+![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/secret_3.png)
+
+- Dapatkan flag
+![-](https://github.com/ishal24/Jarkom-Modul-1-IT13-2024/blob/main/img/secret_4.png)
